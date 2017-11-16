@@ -1,0 +1,16 @@
+9.21
+	直播课内容：
+	1 Python 操作Excel文件
+		xlsxwriter模块
+9.26
+	直播课内容 
+	做一个网盘
+
+	1 安装 Flask 框架
+		1. 写helloworld 网页
+		2. 如何使用调试模式
+		3. template、static文件夹
+	2 客户端（桌面程序）
+		pyqt、tkinter、wxpython 
+9.30
+	做一个爬虫外包
